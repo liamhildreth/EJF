@@ -1,0 +1,24 @@
+{
+  "name": "ejf",
+  "version": "1.0.0",
+  "main": "ejf.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamhildreth/EJF.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liamhildreth/EJF/issues"
+  },
+  "homepage": "https://github.com/liamhildreth/EJF#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
